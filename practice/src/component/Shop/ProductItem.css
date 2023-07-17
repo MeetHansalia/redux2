@@ -1,9 +1,9 @@
-.item h3 {
+.items h3 {
     margin: 0.5rem 0;
     font-size: 1.25rem;
   }
   
-  .item header {
+  .items header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -17,17 +17,11 @@
     font-size: 1.5rem;
   }
   
-  .item p {
+  .items p {
     color: #3a3a3a;
   }
   
-  .actions {
+  .action {
     display: flex;
     justify-content: flex-end;
-  }
-
-  .button {
-    background-color: transparent;
-    border-color: #1ad1b9;
-    color: #1ad1b9;
   }
